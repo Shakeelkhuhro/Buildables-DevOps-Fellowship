@@ -30,7 +30,7 @@
    * Learned about IP addressing (IPv4/IPv6), DNS, and ports (22, 80, 443).
    * Explored TCP vs UDP differences.
    * Practiced networking commands (`ping`, `curl`, `netstat`, `ip a`).
-   * Hosted a simple local web server (Apache/Nginx).
+   * Hosted a simple local web server (Apache/Nginx) (Already Covered previously).
 
 
 ### **Environment Setup**
